@@ -10,13 +10,13 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning *Java*
- 
-- 🧑‍🎓 I’m an Undergraduate at *IJSE*
+-🎓 Successfully completed **GDSE at IJSE**  
 
-- 💬 Ask me about *Java | Web Development*
+-💻 Skilled in **Java & Web Development**  
 
-- 📫 How to reach me *sachiniwathudura@gmail.com*
+-💬 Open to discussions about **Software Development**  
+
+-📫 Contact: **sachiniwathudura@gmail.com**
 
   </td>
 
